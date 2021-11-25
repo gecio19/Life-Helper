@@ -1,0 +1,2 @@
+# Life-Helper
+## Założenia:
