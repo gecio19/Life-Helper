@@ -1,3 +1,3 @@
 # Life-Helper
 ## Założenia:
-###-Zakodowane Gui
+### Zakodowane Gui
